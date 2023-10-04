@@ -1,7 +1,7 @@
 ### Hi there, i'm Iury Azevedo! 👋
 
-- 🔭 I love studying programming, mobile app development and cybersecurity
-- 🌱 I’m computer science student
+- 🔭 Computer science student
+- 🌱 Fullstack Developer
 <div align="center">
   <a href="https://github.com/IuryAzevedo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IuryAzevedo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -18,7 +18,8 @@
   <img align="center" alt="David-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img align="center" alt="David-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" />
   <img align="center" alt="David-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
+  <img align="center" alt="Iury-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+        
 ##
 
 <div> 
